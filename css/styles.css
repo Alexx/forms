@@ -1,0 +1,27 @@
+#letter {
+  display: none;
+  width: 50%;
+}
+
+#stamp {
+  float: right;
+  height: 75px;
+  width: 75px;
+  padding: 4px;
+}
+
+#madagascar {
+  display: block;
+  width: 90%;
+  height: auto;
+  margin-top: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.from {
+  margin-top: 90%;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: cursive;
+}
